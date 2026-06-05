@@ -1,9 +1,13 @@
 # adaptive_entanglement_distillation_data
 
 Title: Adaptive Entanglement Distillation
+
 Author: Sijie Cheng and Narayanan Rengaswamy
+
 The authors are with the Department of Electrical and Computer Engineering, University of Arizona, Tucson AZ 85721.
+
 E-mail: { sijiecheng , narayananr}@arizona.edu
+
 Date: June 4, 2026
 
 This file contains a data-search program. Although it does not show how the data were generated, it provides additional details for reproducing the figures and tables in our paper.
