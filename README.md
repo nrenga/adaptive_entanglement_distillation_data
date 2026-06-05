@@ -1,6 +1,6 @@
 # adaptive_entanglement_distillation_data
 
-Title: Adaptive Entanglement Distillation
+Title: Adaptive Entanglement Distillation (code to reproduce data from the paper: https://arxiv.org/abs/2504.11670)
 
 Author: Sijie Cheng and Narayanan Rengaswamy
 
